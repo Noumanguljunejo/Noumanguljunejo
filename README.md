@@ -1,7 +1,6 @@
 ### 👋 Hi, I’m Nouman Gul Junejo.
 I’m an iOS developer. I prefer Swift language for app development. <br>
 SwiftUI enthusiast. <br>
-<!--
 Love to design beautiful apps and develop amazing features. <br>
 I love exploring the latest technologies and frameworks to build robust and efficient iOS apps. <br>
 
@@ -19,4 +18,3 @@ I love exploring the latest technologies and frameworks to build robust and effi
 Feel free to reach out to me via email at **noumanguljunejo@gmail.com** or connect with me on LinkedIn. I am always excited to collaborate on interesting projects or discuss iOS development ideas.
 
 Thank you for visiting my GitHub repository. I look forward to connecting with you!
---->
